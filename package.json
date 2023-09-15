@@ -2,6 +2,11 @@
   "name": "dj-dark",
   "displayName": "dj-dark",
   "description": "Green + black dark theme.",
+  "publisher": "dj",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarrynJ/vs-code-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
