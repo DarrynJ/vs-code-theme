@@ -7,6 +7,13 @@
     "type": "git",
     "url": "https://github.com/DarrynJ/vs-code-theme"
   },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "green theme",
+    "black theme",
+    "green and black theme"
+  ],
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.82.0"
